@@ -13,4 +13,4 @@
 с разметкой через deepseek [toxic_comment_autolabeling_deepseek_api](https://github.com/AAOleynikov/toxic_comment_autolabeling_deepseek_api).
 
 ### Результаты
-Обучена в кач-ве baseline модель LogisticRegression с результатами precision = , recall = . 
+Обучена в качестве baseline модель LogisticRegression с результатами precision = 0.8069, recall = 0.7452. 
